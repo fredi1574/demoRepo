@@ -1,7 +1,7 @@
 package tirgul2;
 public class SharedData 
 {
-	private ArrayList<Integer> array = new ArrayList<Integer>();
+	private ArrayList<Integer> array = new ArrayList<Integer>();//
 	private boolean [] winArray;
 	private boolean flag;
 	private final int b;
