@@ -8,7 +8,7 @@ public class ThreadCheckArray implements Runnable
 	private boolean [] winArray;
 	SharedData sd;
 	ArrayList<Integer> array = new ArrayList<Integer>();
-	int b;
+	int b; //
 	
 	public ThreadCheckArray(SharedData sd) 
 	{
